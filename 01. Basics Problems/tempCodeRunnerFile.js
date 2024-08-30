@@ -1,0 +1,1 @@
+let customer = parseInt(prompt("Give me money:"));
