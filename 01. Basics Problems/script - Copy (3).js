@@ -1,7 +1,0 @@
-/*
-Problem :
-
-Example :
-*/
-
-// Solution :
