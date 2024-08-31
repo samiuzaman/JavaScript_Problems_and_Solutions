@@ -10,10 +10,10 @@ Example :
 */
 
 // Solution :
-const totalPrice = 400;
+const totalPrice = 501;
 
 if (totalPrice >= 500) {
   console.log("Free Coke");
 } else {
-  console.log("Buy coke 30tk");
+  console.log("Buy Coke 30tk");
 }
