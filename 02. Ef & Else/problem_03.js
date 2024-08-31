@@ -12,6 +12,7 @@ Example :
 
 // Solution :
 const marks = 82;
+
 if (marks >= 90 && marks <= 100) {
   console.log("A");
 } else if (marks >= 80 && marks <= 89) {
