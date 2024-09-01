@@ -1,0 +1,2 @@
+
+Problem : Declare an array
