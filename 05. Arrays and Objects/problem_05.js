@@ -8,3 +8,8 @@ Example :
 */
 
 // Solution :
+const gameOne = ["cricket", "FootBall", "Badminton"];
+const gameTwo = ["Swimming", "Racing"];
+
+const concatGame = gameOne.concat(gameTwo);
+console.log(concatGame);
