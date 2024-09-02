@@ -1,7 +1,3 @@
-let sum = 0;
-for (let number = 206; number <= 311; number++) {
-  if (number % 2 === 0) {
-    sum += number;
-  }
+for (let i = 81; i >= 65; i--) {
+  console.log(i);
 }
-console.log("Total Sum = " + sum);
