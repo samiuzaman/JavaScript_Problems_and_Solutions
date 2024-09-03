@@ -11,6 +11,15 @@ Output:
 // Solution :
 
 const colors = ["red", "blue", "green", "yellow", "orange"];
+let reverseColor = [];
 for (let color = colors.length - 1; color >= 0; color--) {
-  console.log(colors[color]);
+  reverseColor.unshift(colors[color]);
 }
+console.log(reverseColor);
+
+// or
+let reverseColors = [];
+for (let color of colors) {
+  reverseColors.unshift(color);
+}
+console.log(reverseColors);
