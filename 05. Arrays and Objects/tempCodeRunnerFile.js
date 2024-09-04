@@ -1,2 +1,3 @@
-
-Problem : Declare an array
+strArr.reverse();
+const strResult = strArr.join(" ")
+console.log(strResult);
