@@ -1,5 +1,6 @@
 /*
-Problem : Check whether a string contains all the vowels a, e, i, o, u
+Problem : Check whether a string contains all the g, p, s, t
 */
 
 // Solution :
+
