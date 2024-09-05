@@ -1,1 +1,1 @@
-passenger capacity
+Count the number of properties.
